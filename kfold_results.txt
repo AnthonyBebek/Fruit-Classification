@@ -1,0 +1,4 @@
+--- MODEL.JOBLIB ---
+accuracy: 0.9352 ± 0.0082
+f1_macro: 0.9340 ± 0.0083
+
